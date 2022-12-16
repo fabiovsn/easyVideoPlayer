@@ -1,3 +1,3 @@
 # easyVideoPlayer
 
-Execução de vídeo indicado por usuário.
+Execução de vídeo indicado por usuário, utilizando opencv.
